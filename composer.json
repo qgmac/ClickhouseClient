@@ -1,10 +1,14 @@
 {
-  "name": "qgmac/clickhouse-php-client",
+  "name": "the-tinderbox/clickhouse-php-client",
   "description": "Clickhouse client over HTTP",
   "authors": [
     {
       "name": "FacedSID",
       "email": "ay@imagespark.ru"
+    },
+    {
+      "name": "qgmac",
+      "email": "qgmac@qq.com"
     }
   ],
   "autoload": {
